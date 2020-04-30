@@ -1,8 +1,0 @@
-// Place your settings in this file to overwrite the default settings
-{
-    "window.zoomLevel": 1,
-    "[python]": {
-        "editor.insertSpaces": true,
-        "editor.tabSize": 4  
-    }
-}
