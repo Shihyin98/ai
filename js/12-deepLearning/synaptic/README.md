@@ -1,1 +1,0 @@
-[NEURAL NETWORKS IN JAVASCRIPT](https://blog.webkid.io/neural-networks-in-javascript/)
