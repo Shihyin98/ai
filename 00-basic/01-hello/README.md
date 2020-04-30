@@ -1,5 +1,11 @@
-S D:\ccc\course\python\01-hello> python hello.py
+# 執行狀態
+
+## 檔名：hello.py
+D:\ccc\course\python\01-hello> python hello.py
 Hello World
-PS D:\ccc\course\python\01-hello> python area.py
+
+
+## 檔名：area.py
+D:\ccc\course\python\01-hello> python area.py
 Area is 10
 Perimeter is 14
